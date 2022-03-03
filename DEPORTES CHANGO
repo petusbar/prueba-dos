@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1, ESPN
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=jtKshqmAfFvA7XMOldAclw&expires=1646361895&ip=189.195.197.176
+
+#EXTINF:-1, ESPN MEXICO
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/27_.m3u8?token=EGky1W6ZkKlb4DCsxoADXA&expires=1646362745&ip=189.195.197.176
+
+#EXTINF:-1, TUDN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=7AfQMmAVTyQ8CNdRc7ssPQ&expires=1646363312&ip=189.195.197.176
+
+
+#EXTINF:-1, FOX SPORT PREMIUM
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=c9o5YtX5_wEqx7Em4XCPsw&expires=1646362407&ip=189.195.197.176
+
+#EXTINF:-1, FOX SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=7koXToud_0jrllLBkNn5og&expires=1646362961&ip=189.195.197.176
+
+#EXTINF:-1, FOX SPORT MEXICO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/24_.m3u8?token=zHycBamZ_tjLcXObAa4Qcw&expires=1646363052&ip=189.195.197.176
