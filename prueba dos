@@ -80,11 +80,16 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2703&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2882&p=3&k=srregio&f=.m3u8 
 
 *** peliculas***
-#EXTINF:-1, la era de hielo aventuras de buck
-https://00f74ba44b8385923d7935a90ee95171b824d15242-apidata.googleusercontent.com/download/storage/v1/b/lansah/o/zlvJdvyxWlo?jk=AFshE3UMuA21gK9afoa_395PCCJSe4z4nMkDdm4E9HuIJBoBGGzP8Q2htGF-0unxdrmjnWq12jGcf_LZLUuzGTjizvbpM7GQxmKXp8vBmR6fh_mnl956XaZwmKN0BSp9hogoG4nSHr64q5HH4xMzmTZvyxIYMXS7M3qtX_APbsTQJ0roJeETmC-VlchkCLV88uLCuH1VxL_QzvMgIl_CRDdKzCPQnFJf9YMKSxsULH6D9UyPvb1mDc-7sjn4PXepMzHGVR2LTUy2n8tK8Uz81TLsSqnMWyK8XW1ovXeyUhtwU-40qof0XmE_6wE-66k8o1HH-O5m0GF0Z_Sguh-kB6XZec_CSDsVI9E6XP4tU17lWfDr5bJhiMKjRayzDH_wWlRxCbs3ZIZeUKDt1STyDnxqoFh4rXRjOl71OLZMSidHHvn-k5Z4jHxjSy_UMOwk1jP5L-C2MkVARr2dT144Ytvf_HO4c0fr0T6C_ZnN0FQPgnczt8BRgTCj44f12UEQziaToMKY3QhC-T2HZ8Fgnon0Yoro-fPj6tkfoZAoURv6l_tKp72Wh684TwWZ4vwTdfLjPPWZ7Y-IdmcTOv7KKTke7U0qLqiZs50kQq8iDL4cVmvS8tl_O5Z9P_d8KMd55vumkTYhxvgx53jG3PJpscbLckDSw2zr0C7FcmMs-wHuiR5vMeqauRe6R1Nj7Sn4We2eNhPSa-JErxwY2bIE1KJfoPCu1TvahHUY6tn6NxChhQUrbpCBEXoGdVkNnLi-MEHUjWt0q3qkHiWOy6vHIjCsRSFEnYzI7rFmgqKEpKwqm96Hy0K4Mrg9_oviyTHufJGRN_UKCUN1u87PCrl2-CtRNOxgQ4JIFp4XOfMhg6al47eArWMNOgnCQJolqHZeX9SGDnUrszgHz4V4qaeSlFAIpdM5MIE7qHI6ADyBV2zMZdH6xonALbd_Kx8EHvqg5GezWCoRBh6l2CiRp_gErpq7WIM9bn4tv2jrm8S6&isca=1
+
+INTERNACIONALES
 
 #EXTINF:-1, WB
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=cmIMfiC8vNKadon6jM2t2Q&expires=1646363948&ip=189.195.197.176
+
+#EXTINF:-1, HBO PLUS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10001.m3u8
+
+
 DEPORTES
 
 #EXTINF:-1, ESPN
@@ -107,3 +112,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=7koXToud_0jrl
 
 #EXTINF:-1, FOX SPORT MEXICO
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/24_.m3u8?token=zHycBamZ_tjLcXObAa4Qcw&expires=1646363052&ip=189.195.197.176
+
+#EXTINF:-1, EL CHAVO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=z7uV32H2i50j5ClVLo0hyQ&expires=1646365713&ip=189.195.197.176
