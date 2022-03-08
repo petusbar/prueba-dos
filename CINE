@@ -1,0 +1,58 @@
+#EXTM3U
+*** CINE ***
+#EXTINF:-1, A3CINE 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TBS SD  
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=81&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN +
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, TNT 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, TCM
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, SPACE
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AMC 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, STUDIO UNIVERSAL
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, I SAT  
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=135&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EUROPA CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=136&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FILMS & ARTS
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=137&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FXM SD 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=332&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOX SERIES
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=139&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MORBIDO
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=140&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX MOVIES 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINECANAL
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CINEMAX 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=158&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AMC  
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=328&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, DE PELICULA SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=335&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX ACTION
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, PARAMOUNT CHANNEL 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CINEMA SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1729&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, FOX CLASSICS SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8 
