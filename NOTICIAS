@@ -1,0 +1,48 @@
+#EXTM3U
+*** NOTICIAS ***
+#EXTINF:-1, FOROTV HD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, FOROTV SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=19&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN40
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=40&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, ADN 40 HD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=184&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=185&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=186&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, CNN Ñ SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, WOBI 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=102&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FOXN EWS
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BLOOMBERG 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, BBC SD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, AL JAAZERA 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=192&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, NTN 24
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, JUSTICIA TV 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=196&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, HLN
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=197&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, DW 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, RT
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO HD
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MILENIO SD 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1252&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EXCELSIOR TV
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1449&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, EL FINANCIERO HD 
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=1649&p=3&k=srregio&f=.m3u8  
+ #EXTINF:-1, RT ESPAÑOL
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1, FRANCE 24
+http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2402&p=3&k=srregio&f=.m3u8 
