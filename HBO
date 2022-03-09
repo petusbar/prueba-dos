@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1, WB
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=cmIMfiC8vNKadon6jM2t2Q&expires=1646363948&ip=189.195.197.176
+
+#EXTINF:-1, HBO PLUS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10001.m3u8
+
+#EXTINF:-1, HBO
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-mp4a_144800_eng=20000.m3u8
+
+#EXTINF:-1, HBO 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_3000000=10004.m3u8
+
+#EXTINF:-1, HBO PLUS
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10001.m3u8
+
+#EXTINF:-1, HBO FAMILY
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_3000000=10004.m3u8
+
+#EXTINF:-1, HBO POP
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_3000000=10004.m3u8
+
+
+#EXTINF:-1, HBO MUNDI
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_3450000=10004.m3u8
+
+#EXTINF:-1, HBO XTREM
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_3450000=10004.m3u8
